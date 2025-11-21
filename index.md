@@ -1,3 +1,3 @@
-# Ana Montañez's Portfolio
+# Ana Montañez's Portfolio 
 
-Welcome! Work in progress.
+Welcome! Work is still in progress...
