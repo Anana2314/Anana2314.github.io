@@ -2,7 +2,11 @@ ipykernel
 pandas
 plotly
 matplotlib
+
+# needed for plotly
 nbformat
+kaleido
+
 statsmodels
 jupyter-book==1.0.*
 
