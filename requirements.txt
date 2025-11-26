@@ -4,6 +4,7 @@ plotly
 
 #needed for plotly
 nbformat
+matplotlib
 statsmodels
 jupyter-book==1.0.*
-matplotlib
+
